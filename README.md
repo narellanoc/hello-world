@@ -10,4 +10,4 @@
 
 This is an example of a GitHub repository.
 
-Isn't it awesome?!!!!!!!!!!
+Isn't it awesome?
