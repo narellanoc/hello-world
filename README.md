@@ -11,3 +11,5 @@
 This is an example of a GitHub repository.
 
 Isn't it awesome?
+
+This is an example change.
